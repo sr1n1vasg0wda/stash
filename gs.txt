@@ -1,3 +1,4 @@
 git
 stashing
 23/6/23
+friday
